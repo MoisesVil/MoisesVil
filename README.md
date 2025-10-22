@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Moises Villegas!
 
-🎓 **Computer Science graduate from Kansas State University**
+🎓 **Computer Science graduate from Kansas State University**  
 💻 **Aspiring Software Engineer | Former Walmart Global Tech Intern | Bilingual (English & Spanish)**  
 🌟 Passionate about building scalable applications, solving complex problems, and continuously learning new technologies.
 
